@@ -8,6 +8,6 @@ I've worked with many programming languages, frameworks, and tools to developed 
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=express,react,laravel,next&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=express,react,laravel,next,astro&theme=light)](https://skillicons.dev)
 
 </div>
